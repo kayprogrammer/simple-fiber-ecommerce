@@ -15,7 +15,15 @@ A beginner's guide to the Fiber framework.
 ```
 
 #### In the root directory:
+- Install all dependencies
+```bash
+    $ go get ./...
+```
 - Build and run server
+```bash
+    $ go run .
+```
+OR
 ```bash
     $ air
 ```
